@@ -37,3 +37,28 @@ background-repeat: no-repeat;
     font-size: 36px;
     margin-left: 50px;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  background: #333;
+  color: #FE7F48;
+}
+
+.fa-instagram {
+  background: #333;
+  color: #FE7F48;
+}
+
+.file-pdf-o {
+  background: #333;
+  color: #FE7F48;
+}
