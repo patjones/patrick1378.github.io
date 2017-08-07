@@ -42,10 +42,10 @@ background-repeat: no-repeat;
 .fa-linkedin {
   background: #333;
   color: #FE7F48;
-  padding: 20px;
   font-size: 30px;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
+  padding-top: 5px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -55,10 +55,10 @@ background-repeat: no-repeat;
 .fa-instagram {
   background: #333;
   color: #FE7F48;
-  padding: 20px;
   font-size: 30px;
-  width: 30px;
-  height: 30px;
+  padding-top: 5px;
+  width: 40px;
+  height: 40px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
