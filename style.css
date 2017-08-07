@@ -65,10 +65,9 @@ background-repeat: no-repeat;
   border-radius: 50%;
 }
 
-.file-pdf-o {
+.fa-file-pdf-o {
   background: #333;
   color: #FE7F48;
-  padding: 20px;
   font-size: 30px;
   width: 30px;
   height: 30px;
