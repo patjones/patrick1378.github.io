@@ -39,7 +39,7 @@ background-repeat: no-repeat;
 }
 
 
-.fa-linkedin {
+social.fa-linkedin {
   background: #333;
   color: #FE7F48;
   font-size: 30px;
@@ -52,7 +52,7 @@ background-repeat: no-repeat;
   border-radius: 50%;
 }
 
-.fa-instagram {
+social.fa-instagram {
   background: #333;
   color: #FE7F48;
   font-size: 30px;
@@ -65,7 +65,7 @@ background-repeat: no-repeat;
   border-radius: 50%;
 }
 
-.fa-file-pdf-o {
+social.fa-file-pdf-o {
   background: #333;
   color: #FE7F48;
   font-size: 30px;
