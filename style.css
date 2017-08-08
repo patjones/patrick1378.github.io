@@ -21,7 +21,7 @@ background-repeat: no-repeat;
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #2b132b;
     display: block;
     transition: 0.3s;
 }
@@ -41,7 +41,7 @@ background-repeat: no-repeat;
 
 .social .fa-linkedin {
   background: #333;
-  color: #FE7F48;
+  color: #2b132b;
   font-size: 30px;
   width: 40px;
   height: 40px;
@@ -54,7 +54,7 @@ background-repeat: no-repeat;
 
 .social .fa-instagram {
   background: #333;
-  color: #FE7F48;
+  color: #2b132b;
   font-size: 30px;
   padding-top: 5px;
   width: 40px;
@@ -67,7 +67,7 @@ background-repeat: no-repeat;
 
 .social .fa-file-pdf-o {
   background: #333;
-  color: #FE7F48;
+  color: #2b132b;
   font-size: 30px;
   padding-top: 5px;
   width: 40px;
