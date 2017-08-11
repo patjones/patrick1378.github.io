@@ -16,6 +16,11 @@ html {
   background-size: cover;
 }
 
+.landing{
+  margin: 0;
+  height: 100%;  
+}
+
 main{
   margin: 0;
   height: 100%;
