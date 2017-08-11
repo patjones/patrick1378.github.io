@@ -2,6 +2,8 @@ body{
 background-color:#00695c;
 background-size: 100%;
 background-repeat: no-repeat;
+width: auto ;
+height: auto ;
 }
 
 .sidenav {
@@ -11,7 +13,7 @@ background-repeat: no-repeat;
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #2b132b;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
