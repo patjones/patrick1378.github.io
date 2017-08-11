@@ -1,9 +1,17 @@
-body{
+/*body{
 background-color:#00695c;
 background-size: 100%;
 background-repeat: no-repeat;
 width: auto ;
 height: auto ;
+}*/
+
+html {
+  background: url(/images/background1.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .sidenav {
