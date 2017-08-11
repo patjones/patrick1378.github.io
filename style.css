@@ -14,11 +14,12 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  overflow: hidden;
 }
 
 .landing{
   margin: 0;
-  height: 100%;  
+  height: 100%;
 }
 
 main{
@@ -31,6 +32,7 @@ body {
   min-height: 100%;
   background-color: transparent;
   position: relative;
+  overflow: hidden;
 }
 
 .sidenav {
