@@ -20,6 +20,7 @@ html {
 .landing{
   margin: 0;
   height: 100%;
+  color: #2b132b;
 }
 
 main{
@@ -52,13 +53,13 @@ body {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #FCEADB;
     display: block;
     transition: 0.3s;
 }
 
 .sidenav a:hover, .offcanvas a:focus{
-    color: #f1f1f1;
+    color: #FCEADB;
 }
 
 .sidenav .closebtn {
