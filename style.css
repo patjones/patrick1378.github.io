@@ -16,7 +16,7 @@ html {
 
 body {
   min-height: 100%;
-  background-color: none;
+  background-color: transparent;
 }
 
 .sidenav {
